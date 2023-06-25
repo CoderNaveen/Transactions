@@ -1,10 +1,13 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.domain.usecases
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Observer
+import com.naveenkumawat.transactions.data.repository.TransactionRepository
+import com.naveenkumawat.transactions.domain.model.Transaction
 
-class CalculateTotalExpensesUseCaseImpl(private val transactionRepository: TransactionRepository): CalculateTotalExpensesUseCase {
+class CalculateTotalExpensesUseCaseImpl(private val transactionRepository: TransactionRepository):
+    CalculateTotalExpensesUseCase {
     override fun getExpenseTotal(): LiveData<Double> {
             val totalExpenseLiveData = MutableLiveData<Double>()
 

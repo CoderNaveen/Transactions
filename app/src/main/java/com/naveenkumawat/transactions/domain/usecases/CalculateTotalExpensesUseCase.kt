@@ -1,4 +1,4 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.domain.usecases
 
 import androidx.lifecycle.LiveData
 

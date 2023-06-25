@@ -1,10 +1,11 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.data.local
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
+import com.naveenkumawat.transactions.domain.model.Transaction
 
 @Database(entities = [Transaction::class], version = 1, exportSchema = false)
 @TypeConverters(Converters::class)

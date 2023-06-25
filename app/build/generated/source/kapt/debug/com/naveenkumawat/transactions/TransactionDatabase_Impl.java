@@ -4,19 +4,16 @@ import androidx.annotation.NonNull;
 import androidx.room.DatabaseConfiguration;
 import androidx.room.InvalidationTracker;
 import androidx.room.RoomOpenHelper;
-import androidx.room.RoomOpenHelper.Delegate;
-import androidx.room.RoomOpenHelper.ValidationResult;
 import androidx.room.migration.AutoMigrationSpec;
 import androidx.room.migration.Migration;
 import androidx.room.util.DBUtil;
 import androidx.room.util.TableInfo;
-import androidx.room.util.TableInfo.Column;
-import androidx.room.util.TableInfo.ForeignKey;
-import androidx.room.util.TableInfo.Index;
 import androidx.sqlite.db.SupportSQLiteDatabase;
 import androidx.sqlite.db.SupportSQLiteOpenHelper;
-import androidx.sqlite.db.SupportSQLiteOpenHelper.Callback;
-import androidx.sqlite.db.SupportSQLiteOpenHelper.Configuration;
+
+import com.naveenkumawat.transactions.data.local.TransactionDao;
+import com.naveenkumawat.transactions.data.local.TransactionDatabase;
+
 import java.lang.Class;
 import java.lang.Override;
 import java.lang.String;
@@ -94,7 +91,7 @@ public final class TransactionDatabase_Impl extends TransactionDatabase {
         final TableInfo _infoTransactions = new TableInfo("transactions", _columnsTransactions, _foreignKeysTransactions, _indicesTransactions);
         final TableInfo _existingTransactions = TableInfo.read(_db, "transactions");
         if (! _infoTransactions.equals(_existingTransactions)) {
-          return new RoomOpenHelper.ValidationResult(false, "transactions(com.naveenkumawat.transactions.Transaction).\n"
+          return new RoomOpenHelper.ValidationResult(false, "transactions(com.naveenkumawat.transactions.domain.model.Transaction).\n"
                   + " Expected:\n" + _infoTransactions + "\n"
                   + " Found:\n" + _existingTransactions);
         }

@@ -1,9 +1,13 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.data.repository
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.map
+import com.naveenkumawat.transactions.domain.model.Transaction
+import com.naveenkumawat.transactions.domain.model.TransactionType
+import com.naveenkumawat.transactions.data.local.TransactionDao
 
-class TransactionRepositoryImpl(private val transactionDao: TransactionDao) : TransactionRepository {
+class TransactionRepositoryImpl(private val transactionDao: TransactionDao) :
+    TransactionRepository {
     override fun getAllTransactions(): LiveData<List<Transaction>> {
         return transactionDao.getAllTransactions()
     }
@@ -16,7 +20,7 @@ class TransactionRepositoryImpl(private val transactionDao: TransactionDao) : Tr
 
     override fun getIncomeTransactions(): LiveData<List<Transaction>> {
         return transactionDao.getAllTransactions().map { transactions ->
-            transactions.filter { it.type == TransactionType.INCOME  }
+            transactions.filter { it.type == TransactionType.INCOME }
         }
     }
 

@@ -1,6 +1,7 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.data.local
 
 import androidx.room.TypeConverter
+import com.naveenkumawat.transactions.domain.model.TransactionType
 
 class Converters {
     @TypeConverter

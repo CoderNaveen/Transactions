@@ -1,4 +1,4 @@
-package com.naveenkumawat.transactions.utils
+package com.naveenkumawat.transactions.util
 
 import java.util.*
 

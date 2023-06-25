@@ -1,6 +1,7 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.data.repository
 
 import androidx.lifecycle.LiveData
+import com.naveenkumawat.transactions.domain.model.Transaction
 
 interface TransactionRepository {
     fun getAllTransactions(): LiveData<List<Transaction>>

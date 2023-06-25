@@ -1,8 +1,9 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.presentation.util
 
 import android.content.DialogInterface
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.FragmentActivity
+import com.naveenkumawat.transactions.R
 
 fun displayAlertPopup(it: FragmentActivity): AlertDialog? {
     val builder = AlertDialog.Builder(it)

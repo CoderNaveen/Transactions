@@ -9,7 +9,15 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.progressindicator.LinearProgressIndicator
+import com.naveenkumawat.transactions.data.local.TransactionDatabase
+import com.naveenkumawat.transactions.data.repository.TransactionRepositoryImpl
 import com.naveenkumawat.transactions.databinding.ActivityTransactionsBinding
+import com.naveenkumawat.transactions.domain.model.Transaction
+import com.naveenkumawat.transactions.presentation.AddButtonListener
+import com.naveenkumawat.transactions.presentation.adapter.TransactionAdapter
+import com.naveenkumawat.transactions.presentation.dialog.AddTransactionFragmentDialog
+import com.naveenkumawat.transactions.presentation.viewmodel.TransactionViewModel
+import com.naveenkumawat.transactions.presentation.viewmodel.TransactionViewModelFactory
 
 class TransactionsActivity : AppCompatActivity(), AddButtonListener {
 

@@ -1,4 +1,4 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.presentation.util
 
 import android.text.Editable
 import android.text.TextWatcher

@@ -1,4 +1,4 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.presentation.adapter
 
 import android.content.Context
 import android.graphics.Canvas
@@ -13,7 +13,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.naveenkumawat.transactions.databinding.ItemEmptyBinding
 import com.naveenkumawat.transactions.databinding.ItemHeaderTransactionsBinding
 import com.naveenkumawat.transactions.databinding.ItemTransactionDataBinding
-import com.naveenkumawat.transactions.utils.formatDate
+import com.naveenkumawat.transactions.domain.model.Transaction
+import com.naveenkumawat.transactions.util.formatDate
 
 
 class TransactionAdapter(private val context: Context,  private val onDeleteTransaction: (Transaction) -> Unit) :

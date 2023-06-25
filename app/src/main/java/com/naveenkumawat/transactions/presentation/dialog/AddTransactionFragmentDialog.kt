@@ -1,4 +1,4 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.presentation.dialog
 
 import android.os.Bundle
 import android.view.Gravity
@@ -16,7 +16,15 @@ import android.widget.Toast
 import androidx.fragment.app.DialogFragment
 import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.viewModels
+import com.naveenkumawat.transactions.presentation.util.AccountingNumberKeyListener
+import com.naveenkumawat.transactions.presentation.util.AccountingNumberTextWatcher
+import com.naveenkumawat.transactions.presentation.AddButtonListener
+import com.naveenkumawat.transactions.presentation.AmountEditTextViewModel
+import com.naveenkumawat.transactions.R
 import com.naveenkumawat.transactions.databinding.DialogAddTransactionBinding
+import com.naveenkumawat.transactions.presentation.util.displayAlertPopup
+import com.naveenkumawat.transactions.domain.model.Transaction
+import com.naveenkumawat.transactions.domain.model.TransactionType
 
 class AddTransactionFragmentDialog(private val addButtonListener: AddButtonListener) :
     DialogFragment() {

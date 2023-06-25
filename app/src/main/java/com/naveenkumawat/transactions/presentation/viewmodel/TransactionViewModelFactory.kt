@@ -1,7 +1,11 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.presentation.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.naveenkumawat.transactions.data.repository.TransactionRepository
+import com.naveenkumawat.transactions.domain.usecases.CalculateTotalAmountUseCaseImpl
+import com.naveenkumawat.transactions.domain.usecases.CalculateTotalExpensesUseCaseImpl
+import com.naveenkumawat.transactions.domain.usecases.CalculateTotalIncomeUseCaseImpl
 
 
 class TransactionViewModelFactory(private val repository: TransactionRepository) : ViewModelProvider.Factory {

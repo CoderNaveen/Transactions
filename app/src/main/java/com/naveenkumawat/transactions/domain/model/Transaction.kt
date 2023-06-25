@@ -1,9 +1,10 @@
-package com.naveenkumawat.transactions
+package com.naveenkumawat.transactions.domain.model
 
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 import androidx.room.TypeConverters
+import com.naveenkumawat.transactions.data.local.Converters
 
 @Entity(tableName = "transactions")
 @TypeConverters(Converters::class)
