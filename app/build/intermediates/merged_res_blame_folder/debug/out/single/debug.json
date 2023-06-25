@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_column_balance_container_data.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/column_balance_container_data.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_layout_dollar_component.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/layout_dollar_component.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_vertical_divider.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/vertical_divider.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/drawable_cell_border.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/drawable/cell_border.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_layout_balance_container.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/layout_balance_container.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_row_transaction_data.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/row_transaction_data.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_row_list_data.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/row_list_data.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_item_transaction_data.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/item_transaction_data.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_activity_transactions.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/activity_transactions.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_item_header_transactions.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/item_header_transactions.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_row_balance_container_data.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/row_balance_container_data.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_item_empty.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/item_empty.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/layout_dialog_add_transaction.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/layout/dialog_add_transaction.xml"
+    },
+    {
+        "merged": "com.naveenkumawat.transactions.app-merged_res-41:/layout_dialog_add_transaction.xml.flat",
+        "source": "com.naveenkumawat.transactions.app-main-43:/layout/dialog_add_transaction.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/empyreanlogic/.gradle/daemon/8.0/com.naveenkumawat.transactions.app-main-43:/xml/data_extraction_rules.xml"
+    }
+]

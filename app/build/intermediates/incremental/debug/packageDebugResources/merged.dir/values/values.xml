@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transaction_type_array">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="off_white">#F5F5F5</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red_error">#FF0000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="_20sp">20sp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp60">60dp</dimen>
+    <dimen name="dp80">80dp</dimen>
+    <string name="add">Add</string>
+    <string name="add_dollar_value">Add dollar value</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="add_transaction_button">add transaction button</string>
+    <string name="app_name">Transactions</string>
+    <string name="balance_text_heading">Balance</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_pattern">dd MMM, yyyy</string>
+    <string name="decrement_button">Decrement Button</string>
+    <string name="description_about_transaction">Description about transaction\n(Max 50 characters)</string>
+    <string name="dollar_sign">$USD</string>
+    <string name="error_dialog_message">"Unexpected error has occurred. Please try again"</string>
+    <string name="error_dialog_title">Error</string>
+    <string name="expense_cost_label">-$ %1$s</string>
+    <string name="expense_text_heading">Expenses</string>
+    <string name="fill_in_the_blanks">Please fill in all the elements</string>
+    <string name="income_cost_label">$ %1$s</string>
+    <string name="income_text_heading">Income</string>
+    <string name="increment_button">Increment Button</string>
+    <string name="no_transactions_found">NO TRANSACTIONS FOUND</string>
+    <string name="ok_text">OK</string>
+    <string name="out_of_bounds_dialog_message">Value needs to be smaller than %1$.2f</string>
+    <string name="out_of_bounds_dialog_title">Number out of bounds</string>
+    <style name="Theme.Transactions" parent="Theme.MaterialComponents.Light.NoActionBar"/>
+</resources>

@@ -1,0 +1,16 @@
+#Sun Jun 25 20:29:04 IST 2023
+base.0=/Users/empyreanlogic/AndroidStudioProjects/JobgetTest/Transactions/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/empyreanlogic/AndroidStudioProjects/JobgetTest/Transactions/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/empyreanlogic/AndroidStudioProjects/JobgetTest/Transactions/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.3=/Users/empyreanlogic/AndroidStudioProjects/JobgetTest/Transactions/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.4=/Users/empyreanlogic/AndroidStudioProjects/JobgetTest/Transactions/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=12/classes.dex
+path.3=4/classes.dex
+path.4=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
