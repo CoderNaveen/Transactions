@@ -26,7 +26,7 @@ import com.naveenkumawat.transactions.presentation.util.displayAlertPopup
 import com.naveenkumawat.transactions.domain.model.Transaction
 import com.naveenkumawat.transactions.domain.model.TransactionType
 
-class AddTransactionFragmentDialog(private val addButtonListener: AddButtonListener) :
+class AddTransactionFragmentDialog(var addButtonListener: AddButtonListener) :
     DialogFragment() {
     private val viewModelAmountET: AmountEditTextViewModel by viewModels()
     private lateinit var binding: DialogAddTransactionBinding
