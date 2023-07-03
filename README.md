@@ -1,6 +1,6 @@
-# Transactions
+# Transactions 
 
-The Transactions App is a simple application that allows users to track their expenses and income. It provides a user-friendly interface to add, view, and calculate the total amount of transactions.
+The Transactions App is a simple application that allows users to track their expenses and income. It provides a user-friendly interface to add, view, and calculate the total amount of transactions. This app is made for JobGet.
 
 ## Features
 
